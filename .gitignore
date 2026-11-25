@@ -1,0 +1,11 @@
+# build / temp
+*.zip.tmp
+*.mcpack.tmp
+*.mcaddon.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# системное
+*.swp
+*~
